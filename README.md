@@ -18,7 +18,7 @@ Luna: Oh sure, because I totally have time to think of feline stage names.
 How about “Sir Pounce-a-Lot” or “Meowzart”?
 
 ## Installation
-git clone https://github.com/selimbenhajbraiek/XLNet-based-text-tokenization.git
+git clone https://github.com/selimbenhajbraiek/Luna-My-Sarcastic-AI-Pet-Naming-Assistant.git
 cd Luna-My-Sarcastic-AI-Pet-Naming-Assistant
 
 pip install -r requirements.txt
