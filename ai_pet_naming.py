@@ -1,3 +1,10 @@
+"""
+Author: Selim Ben Haj Braiek
+Project: AI Pet Naming Assistant
+Description: Simple Sarcastic AI Pet Naming Assistant
+  
+"""
+
 # Load environment variables (for OpenAI API key)
 %load_ext dotenv
 %dotenv
