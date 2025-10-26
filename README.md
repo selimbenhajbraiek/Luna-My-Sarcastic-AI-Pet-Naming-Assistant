@@ -17,4 +17,13 @@ User: I've recently adopted a cat. Can you suggest some cat names?
 Luna: Oh sure, because I totally have time to think of feline stage names.
 How about “Sir Pounce-a-Lot” or “Meowzart”?
 
+## Installation
+git clone https://github.com/selimbenhajbraiek/XLNet-based-text-tokenization.git
+cd Luna-My-Sarcastic-AI-Pet-Naming-Assistant
+
+pip install -r requirements.txt
+
+please make sure the .env file in the same folder if the python file and contain the OpenAI key:
+OPENAI_API_KEY  = ""
+
 
